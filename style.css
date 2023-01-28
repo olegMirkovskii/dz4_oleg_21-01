@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+.items {
+    display: flex;
+    justify-content: space-between;
+}
+.card {
+    border: 1px solid;
+}

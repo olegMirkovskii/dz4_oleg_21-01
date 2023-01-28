@@ -1,0 +1,27 @@
+[
+     {
+          "price": "$120",
+          "name": "plants",
+           "img": "img/priroda1.jpeg"
+     },
+     {
+          "price": "$105",
+          "name": "plants",
+          "img": "img/priroda2.jpeg"
+     },
+     {
+          "price": "$120",
+          "name": "plants",
+          "img": "img/priroda3.jpeg"
+     },
+     {
+          "price": "$155",
+          "name": "plants",
+          "img": "img/priroda4.jpeg"
+     },
+     {
+          "price": "$110",
+          "name": "plants",
+          "img": "img/priroda5.jpeg"
+     }
+]
